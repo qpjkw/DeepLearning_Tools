@@ -2,7 +2,7 @@
 
 
 
-Here we provides several tools using in different Deep Learning tasks.
+Here we provide several tools using in different Deep Learning tasks.
 
 
 
